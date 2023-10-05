@@ -13,4 +13,4 @@ In response to these concerns, we have used a variety of data mining techniques,
 
 
 ## Result
-The objective is to identify which technique is most effective at predicting adoption rates or popularity. The metric used is RMSE. That came out to be 21.70 of K Neighbors Regressor,21.02 of Random Forest Regressor and for Gradient Boosting Regressor it was 21.19
+The objective is to identify which technique is most effective at predicting adoption rates or popularity. Analyzed many regression techniques along with Grid Search hyperparameter tuning. The metric used is RMSE. Which came out to be 21.70 of K Neighbors Regressor,21.02 of Random Forest Regressor and for Gradient Boosting Regressor it was 21.19
